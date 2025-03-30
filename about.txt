@@ -1,1 +1,8 @@
-XXXX
+1) Repository GITHUB
+2) VS Code Clone 
+    - URL (GITHUB)
+    - Folder (Local )
+3) COMMIT / PUSH / PULL 
+---------------------------------
+
+
